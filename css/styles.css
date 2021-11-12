@@ -146,7 +146,14 @@ h3 { font-size: var(--fs-h3) }
 .section__subtitle--work {
   color: var(--clr-accent);
   font-weight: var(--fw-bold);
-  margin-bottom: 2em;
+  margin-bottom: 0.5em;
+}
+
+.section__subtitle--cad {
+  font-size: 1em;
+  color: var(--clr-accent);
+  font-weight: var(--fw-bold);
+  margin-bottom: 1em;
 }
 
 /* Header */
